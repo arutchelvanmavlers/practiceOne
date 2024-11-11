@@ -1,1 +1,1 @@
-testFile6
+testFile6 this file is modified with some other text
