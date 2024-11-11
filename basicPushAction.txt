@@ -1,0 +1,60 @@
+
+
+TO Connect system with git
+---------------------------
+
+	Command 1:
+	git config --global user.name "arutchelvanmavlers"
+
+	Command 2: 
+	git config --global user.email "arutchelvan.av@uplers.in"
+
+
+
+To download git file into our folder
+-----------------------------------
+
+git clone https://github.com/arutchelvanmavlers/practiceOne.git
+
+
+To select directory
+-------------------
+
+cd practiceOne
+
+
+Once we added new file need to check status 
+-------------------------------------
+
+git status
+
+
+Once we added new file need to add in git folder then upload on git hub
+------------------------------------
+
+git add testFile2.txt
+
+  https://prnt.sc/MN-jQiak-qXI (Now the file will be in staging area.  then need to move to git local folder)
+
+
+Now need to move to git local folder (https://prnt.sc/vl_XNs9sYsfk)
+------------------------------------------
+
+	git commit -m "testFile2.txt file added" 
+	
+	(We are adding some comment reg the file)
+	
+
+Now push the file to git origin
+-----------------------------------------------
+	git push origin main
+	
+	(this will push the file to the github repository)
+
+
+	(These are the major step to push on the github https://prnt.sc/rBIiruZd_FUq)
+
+	(insert -> add -> commit -> Push)
+	
+
+
